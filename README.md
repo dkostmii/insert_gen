@@ -7,3 +7,6 @@ Syntax of generated script is compatible with [HSQLDB](http://hsqldb.org/) (vers
 Database schema used in this project has the next tables:
 
 ![Database ER diagram](./img/diagram.png)
+
+`access_import` includes separate import files for each table, for importing the data into MS Access database.
+
